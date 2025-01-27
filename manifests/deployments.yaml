@@ -34,7 +34,7 @@ spec:
     app: current-time-api
 ---
 apiVersion: extensions/v1beta1
-kind: ingress
+kind: Ingress
 metadata:
   name: ingress-current-time-api
   namspace: default
