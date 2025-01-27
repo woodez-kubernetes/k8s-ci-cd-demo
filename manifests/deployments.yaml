@@ -49,5 +49,5 @@ spec:
             name: current-time-api-service
             port:
               number: 3000
-        path: /
+        path: /time
         pathType: Exact
