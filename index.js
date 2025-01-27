@@ -8,5 +8,5 @@ app.get('/time', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`The Server running at http://localhost:${port}`);
+    console.log(`testing The Server running at http://localhost:${port}`);
 });
