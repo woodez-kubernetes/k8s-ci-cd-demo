@@ -6,7 +6,7 @@ metadata:
 spec:
   source:
     repoURL: https://github.com/woodez-kubernetes/k8s-ci-cd-demo.git # Use your forked github repo of this project.
-    targetRevision: masters
+    targetRevision: master
     path: manifests
   destination:
     server: https://kubernetes.default.svc # Use your own cluster server
