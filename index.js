@@ -8,5 +8,5 @@ app.get('/time', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Woodez Wood The Server running at http://localhost:${port}`);
+    console.log(`Woodez Woody The Server running at http://localhost:${port}`);
 });
